@@ -2,7 +2,8 @@
 
 This is a somewhat complete example of the paramvalf structure. We have some
 data files in `data`, some task snippets in `paramval` and a vignette in
-`vignettes`.
+`vignettes`. The actual `.func` functions do not do anything as this is just to
+show the structure.
 
 To inialize your paramvalf project you need to do create a file that marks the
 root directory.
