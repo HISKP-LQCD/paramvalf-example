@@ -1,0 +1,14 @@
+---
+title: "Fit Example"
+author: "Martin Ueding"
+date: "15 Januar 2019"
+output: pdf_document
+---
+
+We do something with this here:
+
+```{r}
+library(paramvalf)
+
+pv_load('.', corr_boot)
+```
